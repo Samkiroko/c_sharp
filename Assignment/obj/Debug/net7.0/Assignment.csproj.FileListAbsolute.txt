@@ -1,0 +1,15 @@
+/Users/sam/Projects/C#_main/Assignment/bin/Debug/net7.0/Assignment
+/Users/sam/Projects/C#_main/Assignment/bin/Debug/net7.0/Assignment.deps.json
+/Users/sam/Projects/C#_main/Assignment/bin/Debug/net7.0/Assignment.runtimeconfig.json
+/Users/sam/Projects/C#_main/Assignment/bin/Debug/net7.0/Assignment.dll
+/Users/sam/Projects/C#_main/Assignment/bin/Debug/net7.0/Assignment.pdb
+/Users/sam/Projects/C#_main/Assignment/obj/Debug/net7.0/Assignment.csproj.AssemblyReference.cache
+/Users/sam/Projects/C#_main/Assignment/obj/Debug/net7.0/Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/Projects/C#_main/Assignment/obj/Debug/net7.0/Assignment.AssemblyInfoInputs.cache
+/Users/sam/Projects/C#_main/Assignment/obj/Debug/net7.0/Assignment.AssemblyInfo.cs
+/Users/sam/Projects/C#_main/Assignment/obj/Debug/net7.0/Assignment.csproj.CoreCompileInputs.cache
+/Users/sam/Projects/C#_main/Assignment/obj/Debug/net7.0/Assignment.dll
+/Users/sam/Projects/C#_main/Assignment/obj/Debug/net7.0/refint/Assignment.dll
+/Users/sam/Projects/C#_main/Assignment/obj/Debug/net7.0/Assignment.pdb
+/Users/sam/Projects/C#_main/Assignment/obj/Debug/net7.0/Assignment.genruntimeconfig.cache
+/Users/sam/Projects/C#_main/Assignment/obj/Debug/net7.0/ref/Assignment.dll

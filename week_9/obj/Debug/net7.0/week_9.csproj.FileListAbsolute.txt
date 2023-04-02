@@ -1,0 +1,15 @@
+/Users/sam/Projects/C#_main/week_9/bin/Debug/net7.0/week_9
+/Users/sam/Projects/C#_main/week_9/bin/Debug/net7.0/week_9.deps.json
+/Users/sam/Projects/C#_main/week_9/bin/Debug/net7.0/week_9.runtimeconfig.json
+/Users/sam/Projects/C#_main/week_9/bin/Debug/net7.0/week_9.dll
+/Users/sam/Projects/C#_main/week_9/bin/Debug/net7.0/week_9.pdb
+/Users/sam/Projects/C#_main/week_9/obj/Debug/net7.0/week_9.csproj.AssemblyReference.cache
+/Users/sam/Projects/C#_main/week_9/obj/Debug/net7.0/week_9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/Projects/C#_main/week_9/obj/Debug/net7.0/week_9.AssemblyInfoInputs.cache
+/Users/sam/Projects/C#_main/week_9/obj/Debug/net7.0/week_9.AssemblyInfo.cs
+/Users/sam/Projects/C#_main/week_9/obj/Debug/net7.0/week_9.csproj.CoreCompileInputs.cache
+/Users/sam/Projects/C#_main/week_9/obj/Debug/net7.0/week_9.dll
+/Users/sam/Projects/C#_main/week_9/obj/Debug/net7.0/refint/week_9.dll
+/Users/sam/Projects/C#_main/week_9/obj/Debug/net7.0/week_9.pdb
+/Users/sam/Projects/C#_main/week_9/obj/Debug/net7.0/week_9.genruntimeconfig.cache
+/Users/sam/Projects/C#_main/week_9/obj/Debug/net7.0/ref/week_9.dll

@@ -1,0 +1,15 @@
+/Users/sam/Projects/C#_main/class_work_one/bin/Debug/net7.0/class_work_one
+/Users/sam/Projects/C#_main/class_work_one/bin/Debug/net7.0/class_work_one.deps.json
+/Users/sam/Projects/C#_main/class_work_one/bin/Debug/net7.0/class_work_one.runtimeconfig.json
+/Users/sam/Projects/C#_main/class_work_one/bin/Debug/net7.0/class_work_one.dll
+/Users/sam/Projects/C#_main/class_work_one/bin/Debug/net7.0/class_work_one.pdb
+/Users/sam/Projects/C#_main/class_work_one/obj/Debug/net7.0/class_work_one.csproj.AssemblyReference.cache
+/Users/sam/Projects/C#_main/class_work_one/obj/Debug/net7.0/class_work_one.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/Projects/C#_main/class_work_one/obj/Debug/net7.0/class_work_one.AssemblyInfoInputs.cache
+/Users/sam/Projects/C#_main/class_work_one/obj/Debug/net7.0/class_work_one.AssemblyInfo.cs
+/Users/sam/Projects/C#_main/class_work_one/obj/Debug/net7.0/class_work_one.csproj.CoreCompileInputs.cache
+/Users/sam/Projects/C#_main/class_work_one/obj/Debug/net7.0/class_work_one.dll
+/Users/sam/Projects/C#_main/class_work_one/obj/Debug/net7.0/refint/class_work_one.dll
+/Users/sam/Projects/C#_main/class_work_one/obj/Debug/net7.0/class_work_one.pdb
+/Users/sam/Projects/C#_main/class_work_one/obj/Debug/net7.0/class_work_one.genruntimeconfig.cache
+/Users/sam/Projects/C#_main/class_work_one/obj/Debug/net7.0/ref/class_work_one.dll

@@ -1,0 +1,15 @@
+/Users/sam/Projects/C#_main/APT_assign/bin/Debug/net7.0/APT_assign
+/Users/sam/Projects/C#_main/APT_assign/bin/Debug/net7.0/APT_assign.deps.json
+/Users/sam/Projects/C#_main/APT_assign/bin/Debug/net7.0/APT_assign.runtimeconfig.json
+/Users/sam/Projects/C#_main/APT_assign/bin/Debug/net7.0/APT_assign.dll
+/Users/sam/Projects/C#_main/APT_assign/bin/Debug/net7.0/APT_assign.pdb
+/Users/sam/Projects/C#_main/APT_assign/obj/Debug/net7.0/APT_assign.csproj.AssemblyReference.cache
+/Users/sam/Projects/C#_main/APT_assign/obj/Debug/net7.0/APT_assign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/Projects/C#_main/APT_assign/obj/Debug/net7.0/APT_assign.AssemblyInfoInputs.cache
+/Users/sam/Projects/C#_main/APT_assign/obj/Debug/net7.0/APT_assign.AssemblyInfo.cs
+/Users/sam/Projects/C#_main/APT_assign/obj/Debug/net7.0/APT_assign.csproj.CoreCompileInputs.cache
+/Users/sam/Projects/C#_main/APT_assign/obj/Debug/net7.0/APT_assign.dll
+/Users/sam/Projects/C#_main/APT_assign/obj/Debug/net7.0/refint/APT_assign.dll
+/Users/sam/Projects/C#_main/APT_assign/obj/Debug/net7.0/APT_assign.pdb
+/Users/sam/Projects/C#_main/APT_assign/obj/Debug/net7.0/APT_assign.genruntimeconfig.cache
+/Users/sam/Projects/C#_main/APT_assign/obj/Debug/net7.0/ref/APT_assign.dll
